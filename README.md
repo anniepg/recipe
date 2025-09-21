@@ -6,10 +6,10 @@ changed remotely
 This is the bext pressure cooker rice puddig recipe
 # recipe
 Here are the ingredients
-- Rice, preferably whole grain
-- Milk, preferably plant based
-- 1 can of sweetened condensed milk
-- pinch cinnamon
-- pinch of nutmeg
+- **Rice**, preferably whole grain
+- **Milk**, preferably plant based
+- 1 can of **sweetened condensed milk**
+- pinch **cinnamon**
+- pinch of **nutmeg**
 last line changed locally
 ### This is a REMOTE change :O
