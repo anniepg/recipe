@@ -11,5 +11,6 @@ Here are the ingredients
 - 1 can of **sweetened condensed milk**
 - pinch **cinnamon**
 - pinch of **nutmeg**
+![A picture of rice pudding](recipe.jpg)
 last line changed locally
 ### This is a REMOTE change :O
